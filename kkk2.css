@@ -18,7 +18,7 @@
 }
  
     i.icon.icon-chat-cohost {
-    background : url(https://cdn.rawgit.com/Zethlington/plugdj/master/cohost.png?dl=0);
+    background : url(https://cdn.rawgit.com/Zethlington/plugdj/master/cohost3.png?dl=0);
 }
  
     .group.host {
@@ -37,5 +37,5 @@
 [data-cid^="19636192"].cm .msg .from .un, #user-lists .list.room .role-cohost.id-19636192 .name
 {
         color:                  #000 !important;
-        text-shadow:            0px 0px 1px #e16933, 0px 0px 5px #e16933, 0px 0px 15px #e16933 !important;
+        text-shadow:            0px 0px 1px #5e0f4b, 0px 0px 5px #5e0f4b, 0px 0px 15px #5e0f4b !important;
 }
