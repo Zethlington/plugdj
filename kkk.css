@@ -1,5 +1,5 @@
     #room-bar .icon-room {
-        background: url(http://files.enjin.com/561589/zzzAnythingElse/heart-compact-flat.png);
+        background: url(https://cdn.rawgit.com/Zethlington/plugdj/master/heart-compact-flat.png);
 }
  
     #rcs-progress-container .bar {
@@ -11,11 +11,11 @@
 }
  
     i.icon.icon-chat-host {
-    background : url(http://files.enjin.com/561589/zzzAnythingElse/host.png?dl=0);
+    background : url(https://cdn.rawgit.com/Zethlington/plugdj/master/host.png?dl=0);
 }
  
     i.icon.icon-chat-cohost {
-    background : url(http://files.enjin.com/561589/zzzAnythingElse/cohost.png?dl=0);
+    background : url(https://cdn.rawgit.com/Zethlington/plugdj/master/cohost.png?dl=0);
 }
  
     .group.host {
