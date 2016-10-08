@@ -1,6 +1,6 @@
 {
     "room": "The Kool Kids Klub",
-    "css": "https://rawgit.com/Zethlington/plugdj/master/kokikl.css",
+    "css": "https://raw.githubusercontent.com/Zethlington/plugdj/master/kkk.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
