@@ -1,7 +1,6 @@
 {
     "room": "The Kool Kids Klub",
     "css": "https://cdn.rawgit.com/Zethlington/plugdj/master/kkk5.css",
-    },
     "rules": {		       
     "allowAutorespond": true,		
     "allowAutowoot": true,		
@@ -11,9 +10,8 @@
     "allowEmotes": true,		
     "allowShowingMehs": true,		
     "forceSmartVote": false		
-    },	
-
-    "ccc": {		
+    },
+   "ccc": {		
     "admin": null,		
     "ambassador": null,		
     "host": null,		
@@ -26,7 +24,6 @@
     "friend": null,		
     "user": null
     },
-
     "images": {
         "background": "https://cdn.radiant.dj/rcs/bg/16.png",
         "playback": null,
@@ -40,4 +37,7 @@
         "subscriber": null,
         "silversubscriber": null
     },
+    "emotes": {
+    	"emote_name": null
+    }
 }
