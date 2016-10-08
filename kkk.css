@@ -5,12 +5,13 @@
     #rcs-progress-container .bar {
         background-color: #925aff !important;
 }
- 
+
     #rcs-progress-container {
         background-color: #eee !important;
 }
+
     #user-rollover.is-staff .info .role span
-        color: #ff3557
+        color: #ff3557 !important;
 }
  
     i.icon.icon-chat-host {
