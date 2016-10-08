@@ -9,6 +9,9 @@
     #rcs-progress-container {
         background-color: #eee !important;
 }
+    #user-rollover.is-staff .info .role span
+        color: #ff3557
+}
  
     i.icon.icon-chat-host {
     background : url(https://cdn.rawgit.com/Zethlington/plugdj/master/host.png?dl=0);
