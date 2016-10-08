@@ -1,6 +1,6 @@
 {
     "room": "The Kool Kids Klub",
-    "css": "https://rawgit.com/Zethlington/plugdj/master/kkk1.css",
+    "css": "https://rawgit.com/Zethlington/plugdj/master/kkk2.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
@@ -30,7 +30,7 @@
         "admin": null,
         "ambassador": null,
         "host": "https://cdn.rawgit.com/Zethlington/plugdj/master/host.png",
-        "cohost": "https://cdn.rawgit.com/Zethlington/plugdj/master/cohost2.png",
+        "cohost": "https://cdn.rawgit.com/Zethlington/plugdj/master/cohost3.png",
         "manager": null,
         "bouncer": null,
         "rdj": null,
