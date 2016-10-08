@@ -5,38 +5,37 @@
     #rcs-progress-container .bar {
         background-color: #925aff !important;
 }
-
+ 
     #rcs-progress-container {
         background-color: #eee !important;
 }
-
     #user-rollover.is-staff .info .role span
-        color: #ff3557 !important;
+        color: #ff3557
 }
-
-i.icon.icon-chat-host {
-	background : url(http://files.enjin.com/561589/zzzAnythingElse/host.png?dl=0);
+ 
+    i.icon.icon-chat-host {
+    background : url(https://cdn.rawgit.com/Zethlington/plugdj/master/host.png?dl=0);
 }
-
-i.icon.icon-chat-cohost {
-	background : url(http://files.enjin.com/561589/zzzAnythingElse/cohost.png?dl=0);
+ 
+    i.icon.icon-chat-cohost {
+    background : url(https://cdn.rawgit.com/Zethlington/plugdj/master/cohost.png?dl=0);
 }
-
-.group.host {
-	color:#FF3558;
-	
+ 
+    .group.host {
+    color:#FF3558;
+     
 }
  
 /* Glada_Laxen */
-[data-cid^="3876600"].cm .msg .from .un, #user-lists .list.room .user.role-host.id-3876600.name
+[data-cid^="3876600-"].cm .msg .from .un, #user-lists .list.room .user.role-host.id-3876600 .name
 {
-        color:                  rgb(0, 0, 0) !important;
-        text-shadow:            0px 0px 1px #FF3558, 0px 0px 5px #FF3558, 2px 2px 10px #FF3558 !important;
+        color:                  #000 !important;
+        text-shadow:            0px 0px 1px #FF3558, 0px 0px 5px #FF3558, 0px 0px 15px #FF3558 !important;
 }
  
-/* EncryptedBlade <3 */
-[data-cid^="19636192"].cm .msg .from .un, #user-lists .list.room .user.role-cohost.id-19636192.name
+/* EncryptedBlade */
+[data-cid^="XXXXXXX-"].cm .msg .from .un, #user-lists .list.room .user.role-cohost.id-XXXXXXX .name
 {
-        color:                  rgb(0, 0, 0) !important;
-        text-shadow:            0px 0px 1px #8830c2, 0px 0px 5px #8830c2, 2px 2px 10px #8830c2 !important;
+        color:                  #000 !important;
+        text-shadow:            0px 0px 1px #e16933, 0px 0px 5px #e16933, 0px 0px 15px #e16933 !important;
 }
