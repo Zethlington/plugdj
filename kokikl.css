@@ -13,6 +13,19 @@
     #user-rollover.is-staff .info .role span
         color: #ff3557 !important;
 }
+
+i.icon.icon-chat-host {
+	background : url(http://files.enjin.com/561589/zzzAnythingElse/host.png?dl=0);
+}
+
+i.icon.icon-chat-cohost {
+	background : url(http://files.enjin.com/561589/zzzAnythingElse/cohost.png?dl=0);
+}
+
+.group.host {
+	color:#FF3558;
+	
+}
  
 /* Glada_Laxen */
 [data-cid^="3876600-"].cm .msg .from .un, #user-lists .list.room .user.role-host.id-3876600.name
