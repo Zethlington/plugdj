@@ -1,0 +1,43 @@
+{
+    "room": "The Kool Kids Klub",
+    "css": "https://www.dropbox.com/s/xkhbufevzjohzy5/kkk.css",
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": null,
+        "ambassador": null,
+        "host": null,
+        "cohost": null,
+        "manager": null,
+        "bouncer": null,
+        "rdj": null,
+        "subscriber": null,
+        "silversubscriber": null,
+        "friend": null,
+        "user": null
+    },
+    "images": {
+        "background": "https://cdn.radiant.dj/rcs/bg/16.png",
+        "playback": null,
+        "admin": null,
+        "ambassador": null,
+        "host": "https://www.dropbox.com/s/hx8uhwpn9hlg1ed/host.png",
+        "cohost": "https://www.dropbox.com/s/ex31dziz58gpif9/cohost.png",
+        "manager": null,
+        "bouncer": null,
+        "rdj": null,
+        "subscriber": null,
+        "silversubscriber": null
+    },
+    "emotes": {
+        "": ""
+    }
+}
