@@ -30,7 +30,7 @@
         "admin": null,
         "ambassador": null,
         "host": "https://cdn.rawgit.com/Zethlington/plugdj/master/host.png",
-        "cohost": null,
+        "cohost": "https://cdn.rawgit.com/Zethlington/plugdj/master/cohostn.png",
         "manager": null,
         "bouncer": null,
         "rdj": null,
