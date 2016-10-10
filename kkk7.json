@@ -9,7 +9,8 @@
     "allowSmartVote": true,		
     "allowEmotes": true,		
     "allowShowingMehs": true,		
-    "forceSmartVote": false		
+    "forceSmartVote": false,
+    "theme": true
     },
    "ccc": {		
     "admin": null,		
