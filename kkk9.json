@@ -26,11 +26,11 @@
     "user": null
     },
     "images": {
-        "background": "https://cdn.radiant.dj/rcs/bg/16.png",
+        "background": "https://cdn.plug.dj/_/static/images/community/custom/2014hw/background.29748a148b0c5440ddc5899e07bc32b1a1d4b86c.jpg",
         "playback": null,
         "admin": null,
         "ambassador": null,
-        "host": "https://cdn.rawgit.com/Zethlington/plugdj/master/host.png",
+        "host": "https://raw.githubusercontent.com/Zethlington/plugdj/master/hosticon.png",
         "cohost": "https://cdn.rawgit.com/Zethlington/plugdj/master/cohostn.png",
         "manager": null,
         "bouncer": null,
