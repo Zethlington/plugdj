@@ -1,5 +1,5 @@
     #room-bar .icon-room {
-        background: url(https://cdn.rawgit.com/Zethlington/plugdj/master/heart-compact-flat.png);
+        background: url(https://raw.githubusercontent.com/Zethlington/plugdj/master/leaf.png);
 }
  
     #rcs-progress-container .bar {
@@ -23,3 +23,12 @@
         color:                  #000 !important;
         text-shadow:            0px 0px 1px #aa74fe, 0px 0px 5px #aa74fe, 2px 2px 10px #aa74fe !important;
 }
+
+/* haggisbasher */
+[data-cid^="6314893"].cm .msg .from .un, #user-lists .list.room .role-cohost.id-19636192 .name
+{
+        color:                  #000 !important;
+        text-shadow:            0px 0px 1px #00FF00, 0px 0px 5px #00FF00, 2px 2px 10px #00FF00 !important;
+}
+
+
